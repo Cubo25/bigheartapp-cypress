@@ -9,3 +9,4 @@ cypress/downloads/
 
 # Ignore environment variables
 .env
+.idea/
