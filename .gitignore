@@ -1,0 +1,11 @@
+# Ignore node_modules and dependencies
+node_modules/
+package-lock.json
+
+# Cypress artifacts
+cypress/screenshots/
+cypress/videos/
+cypress/downloads/
+
+# Ignore environment variables
+.env
