@@ -185,8 +185,3 @@ Cypress.Commands.add('deletePost', (postText) => { FeedPage.openPostMenu(postTex
 For inquiries or clarifications, feel free to reach out.
 
 ---
-
-## 📌 **Conclusion**
-This Cypress automation suite **ensures the core functionalities of BigHeartApp work correctly**. The use of **POM, API interception, and structured test design** makes the tests **scalable and maintainable**.
-
----
